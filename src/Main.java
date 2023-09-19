@@ -18,7 +18,7 @@ public class Main {
 
             benny.age = result;
 
-            System.out.println("You picked: " + sc.nextInt());
+            System.out.println("You picked: " + result);
             System.out.println("Benny's age is: " + benny.age);
 
         } while (true);
